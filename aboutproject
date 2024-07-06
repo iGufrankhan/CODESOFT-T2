@@ -1,0 +1,19 @@
+               
+                 Simple Calculator program in c++.
+               
+ This C++ program implements a simple calculator using a do-while loop for continuous operation based on user input. 
+ It begins by displaying a loading message and prompts the user to enter two numbers and an arithmetic operator (+, -, *, /).
+  It then performs the corresponding operation based on the operator chosen using a switch-case statement. 
+  If division by zero is attempted, it displays an error message. 
+  After each operation, it prompts the user to continue or exit.
+   If the user chooses to continue (enters 1), the loop repeats; 
+   otherwise (enters 0),the program exits with a thank you message.
+The program ensures user interaction through clear prompts and outputs results with appropriate formatting.
+                      that's it .
+ It is a simple program to perform diffeerent operation which is used in simple calculator.
+                      
+                      Thank you.
+
+
+
+            
